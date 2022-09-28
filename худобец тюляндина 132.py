@@ -1,4 +1,5 @@
 #изменить название файлов
+
 p = int(input('p='))
 Valid = p
 Np = int(input(f'N{p}='))
